@@ -1,0 +1,30 @@
+*
+{
+font-size:2vw;
+font-family:Century;
+}
+body
+{
+background-color:lightyellow;
+}
+h1
+{
+background-color:black;
+color:white;
+width:50%;
+border-radius:40px;
+}
+.nav{background-color:black;}
+.nav a{color:white;text-decoration:none;margin:2%;}
+h2
+{
+width:30%;
+border-style:solid;
+border-color: blue;
+}
+p
+{
+width:30%;
+border-style:solid;
+border-color: blue;
+}
